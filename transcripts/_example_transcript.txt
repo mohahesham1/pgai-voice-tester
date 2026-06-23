@@ -1,0 +1,12 @@
+Call label: call-01-schedule_simple
+Scenario: schedule_simple
+Call SID: CAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+AGENT: Thank you for calling. How can I help you today?
+PATIENT: Hi, I'd like to schedule a routine check-up next week if possible, preferably Tuesday or Wednesday morning.
+AGENT: I can help with that. Can I get your date of birth?
+PATIENT: Sure, it's July 14, 1990.
+AGENT: Thanks. I have Tuesday at 9:30 AM available. Would you like to book that?
+PATIENT: Yes, that works perfectly. Thank you.
+AGENT: You're all set for Tuesday at 9:30 AM. Anything else I can help with?
+PATIENT: No, that's everything. Goodbye.

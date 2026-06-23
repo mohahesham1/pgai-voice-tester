@@ -1,0 +1,23 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.idea/
+.vscode/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+ngrok.yml
+
+# Keep folder structure; ignore large/generated call artifacts by default
+recordings/*.mp3
+recordings/*.ogg
+recordings/*.wav
+transcripts/*.json
+!recordings/.gitkeep
+!transcripts/.gitkeep
+!transcripts/_example_transcript.txt
